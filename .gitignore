@@ -1,0 +1,6 @@
+.idea/
+*.pyc
+logs/
+data/
+saved_dict/
+
